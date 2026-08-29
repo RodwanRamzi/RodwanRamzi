@@ -1,29 +1,75 @@
-# Hi there, I'm Rodwan Ramzi 👋
+# 👋 Hi there, I'm Rodwan Ramzi
 
-I am a **Hybrid Software Engineer** and **Gameplay Systems Programmer** specializing in performance-optimized architectural frameworks, interactive tools, and intelligent systems. I bridge the gap between flexible high-level systems design and optimal runtime performance.
+## Hybrid Software Engineer | Graphics & Game Engine Developer
+
+I'm a **16-year-old hybrid engineer** from Libya, building high-performance game engines, AI systems, and backend tools. I bridge the gap between low-level systems programming and intelligent, scalable architectures.
+
+> *"Sincerity in craft, commitment to execution, and striving to engineer scalable solutions."*
+
+---
 
 ## 🚀 Core Technical Stack
 
-- **Game Development:** Unreal Engine 4/5 (Advanced Blueprints, Event-Driven Architecture, Technical Scripting, System Profiling)
-- **Low-Level Tracks:** C++, OpenGL (Core Math Pipelines, Shader Compilations, GPU Buffer Management)
-- **AI & Data Pipelines:** Python, Scikit-Learn, Deep Q-Networks (DQN), Reinforcement Learning Agent Simulation
+| Domain | Technologies |
+| :--- | :--- |
+| **Graphics & Rendering** | C++, OpenGL 4.6, Deferred Shading, PBR, GLSL, ImGui |
+| **Game Engines** | Custom OpenGL Engine, Unreal Engine 4/5 (C++, Blueprints) |
+| **AI & Machine Learning** | Python, PyTorch, Reinforcement Learning (DQN), Scikit-Learn |
+| **Backend** | Django, Flask, FastAPI, SQL |
+| **3D Art** | Blender (Modeling, Rigging, Animation) |
 
 ---
 
-## 🛠️ Key Production & Learning Highlights
+## 🔥 Featured Projects
 
-### 🕹️ Gameplay & Architecture
-- **Commercial Indie Credit:** Contracted as a Gameplay Programmer for *Golden Rock Games* at age 15, engineering an optimized, scalable branching narrative/novel framework for a commercial horror title.
-- **Blueprint Optimization:** Designed custom modular tools—including a dynamic terrain-aligning Hierarchical Instanced Static Mesh (HISM) raycast scattering system—focusing on minimizing heavy ticks and loops.
-- **[UE4 High-Performance Crowd Simulation]([https://github.com](https://github.com/RodwanRamzi/UE4-HighPerformance-CrowdSimulation)):** Exploring high-density actor optimizations and crowd movement data inside Unreal Engine.
+### 🖥️ MyGraphicEngineOpenGL
+A **custom OpenGL 4.6 Deferred PBR Renderer** with SSAO, HDR, Bloom, and a full ImGui Level Editor. Built entirely from scratch in C++17.
 
-### 🧠 Intelligent Systems & Backend
-- **[Snake AI Reinforcement Learning]([https://github.com](https://github.com/RodwanRamzi/snake-ai-reinforcement-learning)):** Developed an autonomous Deep Q-Network reinforcement learning agent navigating a custom Pygame grid matrix environment.
-- **[Weather Regression Data Pipeline]([https://github.com](https://github.com/RodwanRamzi/weather-regression-pipeline)):** Built an end-to-end Machine Learning processing pipeline utilizing Python, Scikit-Learn, and Matplotlib to cleanly process atmospheric time tracks.
+[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
+[![OpenGL](https://img.shields.io/badge/OpenGL-4.6-green.svg)](https://www.opengl.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+🔗 [View Repo →](https://github.com/RodwanRamzi/MyGraphicEngineOpenGL)
 
 ---
 
-## 💼 Connect With Me
-- **LinkedIn Portfolio:** [linkedin.com/in/rodwan-ramzi](https://www.linkedin.com/in/rodwan-ramzi-273523372/)
+### 🐍 Snake AI – Reinforcement Learning
+An autonomous Deep Q-Network (DQN) agent that learns to play Snake in a custom Pygame environment.
 
-*"Sincerity in craft, commitment to execution, and striving to engineer scalable solutions."*
+🔗 [View Repo →](https://github.com/RodwanRamzi/snake-ai-reinforcement-learning)
+
+---
+
+### 🌤️ Weather Regression Pipeline
+An end-to-end ML pipeline processing atmospheric data with Python, Scikit-Learn, and Matplotlib.
+
+🔗 [View Repo →](https://github.com/RodwanRamzi/weather-regression-pipeline)
+
+---
+
+### 👨 UE4 Crowd Simulation
+High-performance crowd simulation with 50+ skeletal animated components in Unreal Engine 4.
+
+🔗 [View Repo →](https://github.com/RodwanRamzi/UE4-HighPerformance-CrowdSimulation)
+
+---
+
+## 🏆 Key Achievements
+
+| Achievement | Detail |
+| :--- | :--- |
+| **Commercial Indie Credit** | Contracted as a Gameplay Programmer for **Golden Rock Games** at age 15 – engineered a scalable branching narrative framework for a commercial horror title. |
+| **Custom Engine Built** | Built a **Deferred PBR Renderer** from scratch with SSAO, Bloom, Level Editor, and custom GLTF loader. |
+| **AI & ML** | 3 Kaggle certificates, HackerRank Python Basic certification. |
+| **Recognition** | LinkedIn posts viewed by professionals from **Unity, UCL, Maximus, and RADICL**. |
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/rodwan-ramzi](https://linkedin.com/in/rodwan-ramzi)
+- **GitHub**: [github.com/RodwanRamzi](https://github.com/RodwanRamzi)
+
+---
+
+**Made with ❤️ in Libya 🇱🇾**
