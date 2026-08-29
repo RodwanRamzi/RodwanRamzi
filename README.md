@@ -23,7 +23,7 @@ I'm a **16-year-old hybrid engineer** from Libya, building high-performance game
 ## 🔥 Featured Projects
 
 ### 🖥️ MyGraphicEngineOpenGL
-A **custom OpenGL 4.6 Deferred PBR Renderer** with SSAO, HDR, Bloom, and a full ImGui Level Editor. Built entirely from scratch in C++17.
+A **custom OpenGL 4.6 Deferred PBR Renderer** with HDR, and a full ImGui Level Editor. Built entirely from scratch in C++17.
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-4.6-green.svg)](https://www.opengl.org/)
