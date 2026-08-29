@@ -5,7 +5,7 @@ I am a **Hybrid Software Engineer** and **Gameplay Systems Programmer** speciali
 ## 🚀 Core Technical Stack
 
 - **Game Development:** Unreal Engine 4/5 (Advanced Blueprints, Event-Driven Architecture, Technical Scripting, System Profiling)
-- **Low-Level Tracks:** C++, OpenGL 3.3 (Core Math Pipelines, Shader Compilations, GPU Buffer Management)
+- **Low-Level Tracks:** C++, OpenGL (Core Math Pipelines, Shader Compilations, GPU Buffer Management)
 - **AI & Data Pipelines:** Python, Scikit-Learn, Deep Q-Networks (DQN), Reinforcement Learning Agent Simulation
 
 ---
