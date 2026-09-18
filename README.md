@@ -61,7 +61,6 @@ High-performance crowd simulation with 50+ skeletal animated components in Unrea
 | **Commercial Indie Credit** | Contracted as a Gameplay Programmer for **Golden Rock Games** at age 15 – engineered a scalable branching narrative framework for a commercial horror title. |
 | **Custom Engine Built** | Built a **Deferred PBR Renderer** from scratch with SSAO, Bloom, Level Editor, and custom GLTF loader. |
 | **AI & ML** | 3 Kaggle certificates, HackerRank Python Basic certification. |
-| **Recognition** | LinkedIn posts viewed by professionals from **Unity, UCL, Maximus, and RADICL**. |
 
 ---
 
