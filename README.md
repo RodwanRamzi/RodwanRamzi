@@ -43,10 +43,10 @@ I am a **16-year-old software engineer** from Libya specializing in high-perform
 ### 🖥️ [MyGraphicEngineOpenGL](https://github.com/RodwanRamzi/MyGraphicEngineOpenGL)
 A **custom real-time 3D Game Engine & Deferred PBR Renderer** built entirely from scratch in C++20. 
 
-[![XERJ Contributor](https://shields.io)](https://hub.xerj.org/contributors/RodwanRamzi)
-[![C++](https://shields.io)](https://isocpp.org/)
-[![OpenGL](https://img.shields.io/badge/OpenGL-4.6-green.svg)](https://www.opengl.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![XERJ Hub](https://shields.io)](https://xerj.org)
+[![C++ Standard](https://shields.io)](https://isocpp.org)
+[![OpenGL Version](https://shields.io)](https://opengl.org)
+[![License: MIT](https://shields.io)](https://opensource.org)
 
 * **Verification:** My multi-primitive glTF/GLB binary parser implementation (~1,300 lines of low-level data structures) was officially scouted and indexed by XERJ for reference coding paradigms.
 * **Pipeline Architectures:** Features a 5-attachment G-Buffer (Position, Normal, Albedo, Metallic-Roughness, Emissive), 4-cascade Cascaded Shadow Maps (CSM) with GPU bone-skinning support, SSAO, Volumetric Fog, Auto-Exposure via luminance histograms, and a full custom ImGui Level Editor.
