@@ -1,17 +1,17 @@
 # 👋 Hi there, I'm Rodwan Ramzi
 
-## Graphics & Systems Engineer | Low-Level C++ & Engine Architecture
+## Hybrid Software Engineer | Graphics & Game Engine Developer
 
-I am a **16-year-old software engineer** from Libya specializing in high-performance engine systems, real-time graphics pipelines, and data-driven simulation optimization. I bridge the gap between low-level hardware constraints and high-level structural programming architectures.
+I am a **16-year-old hybrid software engineer** from Libya specializing in high-performance engine systems, real-time graphics pipelines, AI optimization architectures, and robust backend engineering tools. I bridge the gap between low-level hardware constraints and intelligent, scalable architectures.
 
 > *"Sincerity in craft, commitment to execution, and striving to engineer scalable solutions."*
 
 ---
 
 ## ⚡ Current Status & Contract Availability
-* 💼 **Availability:** Open for immediate remote contract or freelance placement starting **November 2026** ($3,500/month retainer or hourly equivalent).
+* 💼 **Availability:** Open for immediate remote contract or freelance placement starting **November 2026** ($4,000/month retainer or hourly equivalent).
 * 🛡️ **Corporate Compliance:** Fully backed by a verified parental co-signatory framework and a clean international wire transfer pipeline for friction-free global onboarding.
-* 🚀 **Core Focus:** Game engine architecture, performance optimization, CPU/GPU profiling, cache-line efficiency (ECS/contiguous memory layouts).
+* 🚀 **Core Focus:** Game engine architecture, performance optimization, CPU/GPU profiling, cache-line efficiency (ECS/contiguous memory layouts), and robust API tooling.
 
 ---
 
@@ -30,11 +30,11 @@ I am a **16-year-old software engineer** from Libya specializing in high-perform
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Graphics & Architecture** | C++20/17/11, OpenGL 4.6, GLSL, Deferred Shading, PBR (Cook-Torrance), Cascaded Shadow Maps (CSM), ImGui |
+| **Graphics & Rendering** | C++20/17/11, OpenGL 4.6, GLSL, Deferred Shading, PBR (Cook-Torrance), Cascaded Shadow Maps (CSM), ImGui |
 | **Game Engines** | Custom OpenGL Engine, Unreal Engine 5 / 4 (C++, Blueprints, Gameplay Tasks, ALSV4) |
-| **Data & Systems Optimization** | Contiguous Component Arrays (`TArray`), O(N) Traversal, Low-Level GPU Visibility Culling, Binary File Parsers |
 | **AI & Machine Learning** | Python 3.11+, PyTorch, Deep Q-Networks (DQN), Scikit-Learn, NumPy, Matplotlib |
-| **Backend & Tooling** | Django, Flask, FastAPI, SQL, Jolt Physics, CMake, Blender (Modeling, Rigging, Animation) |
+| **Backend Architecture** | Django, Flask, FastAPI, SQL Databases |
+| **3D Technical Art** | Blender (Low-poly modeling, skeletal rigging, character animation asset creation) |
 
 ---
 
@@ -45,7 +45,7 @@ A **custom real-time 3D Game Engine & Deferred PBR Renderer** built entirely fro
 
 [![XERJ Hub](https://shields.io)](https://xerj.org)
 [![C++ Standard](https://shields.io)](https://isocpp.org)
-[![OpenGL Version](https://shields.io)](https://opengl.org)
+[![OpenGL Version](https://shields.io)](https://www.opengl.org)
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 * **Verification:** My multi-primitive glTF/GLB binary parser implementation (~1,300 lines of low-level data structures) was officially scouted and indexed by XERJ for reference coding paradigms.
