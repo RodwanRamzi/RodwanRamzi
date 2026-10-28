@@ -1,74 +1,88 @@
 # 👋 Hi there, I'm Rodwan Ramzi
 
-## Hybrid Software Engineer | Graphics & Game Engine Developer
+## Graphics & Systems Engineer | Low-Level C++ & Engine Architecture
 
-I'm a **16-year-old hybrid engineer** from Libya, building high-performance game engines, AI systems, and backend tools. I bridge the gap between low-level systems programming and intelligent, scalable architectures.
+I am a **16-year-old software engineer** from Libya specializing in high-performance engine systems, real-time graphics pipelines, and data-driven simulation optimization. I bridge the gap between low-level hardware constraints and high-level structural programming architectures.
 
 > *"Sincerity in craft, commitment to execution, and striving to engineer scalable solutions."*
 
 ---
 
-## 🚀 Core Technical Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Graphics & Rendering** | C++, OpenGL 4.6, Deferred Shading, PBR, GLSL, ImGui |
-| **Game Engines** | Custom OpenGL Engine, Unreal Engine 4/5 (C++, Blueprints) |
-| **AI & Machine Learning** | Python, PyTorch, Reinforcement Learning (DQN), Scikit-Learn |
-| **Backend** | Django, Flask, FastAPI, SQL |
-| **3D Art** | Blender (Modeling, Rigging, Animation) |
-
----
-
-## 🔥 Featured Projects
-
-### 🖥️ MyGraphicEngineOpenGL
-A **custom OpenGL 4.6 Deferred PBR Renderer** with HDR, and a full ImGui Level Editor. Built entirely from scratch in C++17.
-
-[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
-[![OpenGL](https://img.shields.io/badge/OpenGL-4.6-green.svg)](https://www.opengl.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-🔗 [View Repo →](https://github.com/RodwanRamzi/MyGraphicEngineOpenGL)
-
----
-
-### 🐍 Snake AI – Reinforcement Learning
-An autonomous Deep Q-Network (DQN) agent that learns to play Snake in a custom Pygame environment.
-
-🔗 [View Repo →](https://github.com/RodwanRamzi/snake-ai-reinforcement-learning)
-
----
-
-### 🌤️ Weather Regression Pipeline
-An end-to-end ML pipeline processing atmospheric data with Python, Scikit-Learn, and Matplotlib.
-
-🔗 [View Repo →](https://github.com/RodwanRamzi/weather-regression-pipeline)
-
----
-
-### 👨 UE4 Crowd Simulation
-High-performance crowd simulation with 50+ skeletal animated components in Unreal Engine 4.
-
-🔗 [View Repo →](https://github.com/RodwanRamzi/UE4-HighPerformance-CrowdSimulation)
+## ⚡ Current Status & Contract Availability
+* 💼 **Availability:** Open for immediate remote contract or freelance placement starting **November 2026** ($3,500/month retainer or hourly equivalent).
+* 🛡️ **Corporate Compliance:** Fully backed by a verified parental co-signatory framework and a clean international wire transfer pipeline for friction-free global onboarding.
+* 🚀 **Core Focus:** Game engine architecture, performance optimization, CPU/GPU profiling, cache-line efficiency (ECS/contiguous memory layouts).
 
 ---
 
 ## 🏆 Key Achievements
 
-| Achievement | Detail |
+| Milestone | Technical Validation Detail |
 | :--- | :--- |
-| **Commercial Indie Credit** | Contracted as a Gameplay Programmer for **Golden Rock Games** at age 15 – engineered a scalable branching narrative framework for a commercial horror title. |
-| **Custom Engine Built** | Built a **Deferred PBR Renderer** from scratch with SSAO, Bloom, Level Editor, and custom GLTF loader. |
-| **AI & ML** | 3 Kaggle certificates, HackerRank Python Basic certification. |
+| **XERJ Corpus Hub Contributor** | Selected by the founder for the **XERJ AI Reference Index**. My 1,300+ line custom glTF/GLB binary parser serves as a performance baseline for global developer agents. |
+| **Commercial Indie Credit** | Contracted as a Gameplay Programmer for **Golden Rock GTeam** at age 15. Programmed core narrative logic and persistent state tracking for the commercial title *"Umm Ayoum"* in UE5. |
+| **Custom Engine Production** | Built a functional **Deferred PBR Renderer** from scratch using **C++20** and **OpenGL 4.6 Core Profile** (No black boxes, pure low-level engine mathematics). |
+| **Verified AI/ML Foundations** | Completed 3 Kaggle ML/Python certifications alongside HackerRank Python Basic certifications. |
+
+---
+
+## 🚀 Core Technical Stack
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Graphics & Architecture** | C++20/17/11, OpenGL 4.6, GLSL, Deferred Shading, PBR (Cook-Torrance), Cascaded Shadow Maps (CSM), ImGui |
+| **Game Engines** | Custom OpenGL Engine, Unreal Engine 5 / 4 (C++, Blueprints, Gameplay Tasks, ALSV4) |
+| **Data & Systems Optimization** | Contiguous Component Arrays (`TArray`), O(N) Traversal, Low-Level GPU Visibility Culling, Binary File Parsers |
+| **AI & Machine Learning** | Python 3.11+, PyTorch, Deep Q-Networks (DQN), Scikit-Learn, NumPy, Matplotlib |
+| **Backend & Tooling** | Django, Flask, FastAPI, SQL, Jolt Physics, CMake, Blender (Modeling, Rigging, Animation) |
+
+---
+
+## 🔥 Featured Systems Projects
+
+### 🖥️ [MyGraphicEngineOpenGL](https://github.com/RodwanRamzi/MyGraphicEngineOpenGL)
+A **custom real-time 3D Game Engine & Deferred PBR Renderer** built entirely from scratch in C++20. 
+
+[![XERJ Contributor](https://shields.io)](https://hub.xerj.org/contributors/RodwanRamzi)
+[![C++](https://shields.io)](https://isocpp.org/)
+[![OpenGL](https://img.shields.io/badge/OpenGL-4.6-green.svg)](https://www.opengl.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+* **Verification:** My multi-primitive glTF/GLB binary parser implementation (~1,300 lines of low-level data structures) was officially scouted and indexed by XERJ for reference coding paradigms.
+* **Pipeline Architectures:** Features a 5-attachment G-Buffer (Position, Normal, Albedo, Metallic-Roughness, Emissive), 4-cascade Cascaded Shadow Maps (CSM) with GPU bone-skinning support, SSAO, Volumetric Fog, Auto-Exposure via luminance histograms, and a full custom ImGui Level Editor.
+
+---
+
+### 👨 [UE4 Crowd Simulation Framework](https://github.com/RodwanRamzi/UE4-HighPerformance-CrowdSimulation)
+A high-performance, data-driven crowd simulation framework engineered natively in C++ for Unreal Engine 4.27.
+
+* **Cache Optimization:** Centralizes individual agent tracking into flat, contiguous memory arrays (`TArray`), bypassing standard engine `AActor::Tick` overhead to achieve strict O(N) linear CPU traversal loops.
+* **Low-Level Hardware Pruning:** Incorporates camera view frustum animation culling, shadow-map suppression for background elements, and fast vector raycast floor-snapping (`LineTraceSingleByChannel`) to preserve peak frame rates on target budget hardware configurations.
+
+---
+
+### 🐍 [Snake AI – Autonomous Optimization](https://github.com/RodwanRamzi/snake-ai-reinforcement-learning)
+An autonomous Reinforcement Learning agent built from scratch using Python, PyTorch, and Pygame.
+
+* **DQN Architecture:** Implements a Deep Q-Network (DQN) engine leveraging localized experience replay buffers (100,000 frames cap) and optimized batch size adjustments.
+* **Algorithmic Rewards:** Features strict vector physics environment mapping and custom reward matrices to eliminate self-collision variables dynamically.
+
+---
+
+### 🌤️ [Weather Regression Data Pipeline](https://github.com/RodwanRamzi/weather-regression-pipeline)
+An end-to-end predictive Machine Learning telemetry pipeline built using Python, Scikit-Learn, and Matplotlib.
+
+* **Statistical Modeling:** Outlines row ingestion filters and matrix data segment splits utilizing a Scikit-Learn `LinearRegression` calculation engine, achieving an R-Squared (R²) performance score of 0.9963.
+* **Workstation UI:** Features an event-driven analytical desktop workbench canvas decoupled using asynchronous parameter callbacks to update charts with zero thread conflicts.
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/rodwan-ramzi](https://linkedin.com/in/rodwan-ramzi)
-- **GitHub**: [github.com/RodwanRamzi](https://github.com/RodwanRamzi)
+* 🔗 **LinkedIn:** [linkedin.com/in/rodwan-ramzi](https://linkedin.com/in/rodwan-ramzi)
+* 🐙 **GitHub:** [github.com/RodwanRamzi](https://github.com/RodwanRamzi)
+* 📧 **Email:** rodwanramzi@gmail.com
+* 📱 **Phone:** +218 92-843-0593
 
 ---
-
 **Made with ❤️ in Libya 🇱🇾**
