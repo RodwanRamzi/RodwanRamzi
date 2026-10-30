@@ -19,7 +19,7 @@ I am a **16-year-old hybrid software engineer** from Libya specializing in high-
 
 | Milestone | Technical Validation Detail |
 | :--- | :--- |
-| **XERJ Corpus Hub Contributor** | Selected by the founder for the **XERJ AI Reference Index**. My 1,300+ line custom glTF/GLB binary parser serves as a performance baseline for global developer agents. |
+| **XERJ Corpus Hub Contributor** | Selected by the founder for the **XERJ AI Reference Index**. My 1,200+ line custom glTF/GLB binary parser serves as a performance baseline for global developer agents. |
 | **Commercial Indie Credit** | Contracted as a Gameplay Programmer for **Golden Rock GTeam** at age 15. Programmed core narrative logic and persistent state tracking for the commercial title *"Umm Ayoum"* in UE5. |
 | **Custom Engine Production** | Built a functional **Deferred PBR Renderer** from scratch using **C++20** and **OpenGL 4.6 Core Profile** (No black boxes, pure low-level engine mathematics). |
 | **Verified AI/ML Foundations** | Completed 3 Kaggle ML/Python certifications alongside HackerRank Python Basic certifications. |
