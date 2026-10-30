@@ -9,7 +9,7 @@ I am a **16-year-old hybrid software engineer** from Libya specializing in high-
 ---
 
 ## ⚡ Current Status & Contract Availability
-* 💼 **Availability:** Open for immediate remote contract or freelance placement starting **November 2026** ($4,000/month retainer or hourly equivalent).
+* 💼 **Availability:** Open for immediate remote contract or freelance placement starting **November 2026** ($2,000–$2,500/month retainer or hourly equivalent).
 * 🛡️ **Corporate Compliance:** Fully backed by a verified parental co-signatory framework and a clean international wire transfer pipeline for friction-free global onboarding.
 * 🚀 **Core Focus:** Game engine architecture, performance optimization, CPU/GPU profiling, cache-line efficiency (ECS/contiguous memory layouts), and robust API tooling.
 
