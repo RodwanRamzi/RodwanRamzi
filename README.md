@@ -81,7 +81,6 @@ An end-to-end predictive Machine Learning telemetry pipeline built using Python,
 * 🔗 **LinkedIn:** [linkedin.com/in/rodwan-ramzi](https://linkedin.com/in/rodwan-ramzi)
 * 🐙 **GitHub:** [github.com/RodwanRamzi](https://github.com/RodwanRamzi)
 * 📧 **Email:** rodwanramzi@gmail.com
-* 📱 **Phone:** +218 92-843-0593
 
 ---
 **Made with ❤️ in Libya 🇱🇾**
